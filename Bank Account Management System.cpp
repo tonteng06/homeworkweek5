@@ -1,4 +1,9 @@
-
+/*
+FullName: NGUYEN XUAN TOAN
+ID Student: 24110138
+Purpose: Bank Account Management System
+Date: Sep 17th, 2025
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
